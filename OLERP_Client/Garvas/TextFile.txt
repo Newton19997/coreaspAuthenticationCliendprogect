@@ -1,0 +1,13 @@
+﻿
+how to set bearer authorization header asp.net core
+https://learn.microsoft.com/en-us/answers/questions/760827/how-to-add-bearer-token-to-a-request-in-aspnet-cor.html
+
+https://stackoverflow.com/questions/71919860/how-to-add-bearer-token-authentication-to-typed-httpclient-in-asp-net-core-6
+
+client.DefaultRequestHeaders.Add("Authorization", "Bearer " + #YourToken);
+
+https://www.youtube.com/watch?v=p7xvFRypZCY&list=PLprnOV9ZLFnv0ZYY0bJT2LMukEN634fiD&index=9
+Securing Web API using JWT | WEB API CRUD | Use Token in .NET Core MVC Application | Part-1
+
+https://www.youtube.com/watch?v=wd5RQfrnaUU
+https://www.youtube.com/watch?v=p7xvFRypZCY&list=PLprnOV9ZLFnv0ZYY0bJT2LMukEN634fiD&index=10
